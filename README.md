@@ -2,7 +2,8 @@
 `
 Team 12.7 Repository for Task 1 of ARTH 2020
 `
-##Task Description :
+
+## Task Description :
 ***Developing Automation Script using Python***
 
 **Team Members:**
