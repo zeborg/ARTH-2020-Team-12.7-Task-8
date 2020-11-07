@@ -6,9 +6,21 @@
 ## Task Description :
 ***Developing Automation Script using Python***
 
-**Team Members:**
-  1. Abhinav Sinha - 
-  2. Anupreet Dube - *RHEL-utils.py*
-  3. Piyush Bagani
-  4. Vinay Jadhav
-  5. Ayush Chaplot
+## Team Members:
+  **1. Abhinav Sinha** 
+  - Docker.py 
+  - main.py
+  
+  **2. Anupreet Dube**
+  - RHEL-utils.py
+  
+  **3. Piyush Bagani**
+  - Hadoop.py
+  - datanode_setup.py
+  - client_setup.py
+  - namenode_setup.py
+  
+  **4. Vinay Jadhav**
+  - AWS.py
+  
+  **5. Ayush Chaplot** 
